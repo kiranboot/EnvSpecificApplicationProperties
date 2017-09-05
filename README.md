@@ -27,7 +27,9 @@ http://localhost:8080//EnvSpecificApplicationProperties/GetCurrentEnvironment
 and see logs
 
 Below we are not supplying the enviorment so application.properites will be picked
+
 java -jar EnvSpecificApplicationProperties-0.0.1-SNAPSHOT.jar
+
 Hit the endpoiont 
 http://localhost:8080//EnvSpecificApplicationProperties/GetCurrentEnvironment 
 and see logs
