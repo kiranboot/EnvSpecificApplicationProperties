@@ -8,8 +8,6 @@ Spring Starter
 
 -devtools
 
-Envionmnet Specific Application Properties
-
 mvn clean
 
 mvn eclipse:eclipse
