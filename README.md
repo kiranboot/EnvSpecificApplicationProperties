@@ -52,3 +52,6 @@ Hit the endpoiont
 http://localhost:8080//EnvSpecificApplicationProperties/GetCurrentEnvironment 
 
 and see logs
+
+
+So application.properites is the default
